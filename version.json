@@ -1,20 +1,19 @@
 {
   "schema": 1,
   "status": "active",
-  "version": "1.9.6",
+  "version": "1.9.7",
   "changes": [
-    "REORGANIZACIÓN DE MULTAS, CONSECUTIVO ROJO Y JUSTIFICACIÓN DEL CÁLCULO",
-    "CALENDARIO LABORAL PARA PLAZOS DE ENTREGA",
-    "EDITOR DE MEMBRETES Y FORMATO LEGAL DE MULTA",
-    "AVISOS INTEGRADOS Y CANAL HTTPS PROTEGIDO"
+    "ACTUALIZADOR ANDROID: INSTALACIÓN NATIVA MÁS FIABLE SIN NAVEGADOR NI DESINSTALAR LA VERSIÓN ANTERIOR",
+    "VERIFICACIÓN PREVIA DEL APK: INTEGRIDAD, IDENTIDAD DE ACTARIA Y VERSIÓN SUPERIOR",
+    "ERRORES DE INSTALACIÓN MÁS CLAROS Y CONSERVACIÓN DE REGISTROS LOCALES"
   ],
   "urls": {
-    "windows": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.6/ACTARIA-Setup-1.9.6-x64.exe",
-    "android": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.6/ACTARIA-1.9.6-Android.apk"
+    "windows": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.7/ACTARIA-Setup-1.9.7-x64.exe",
+    "android": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.7/ACTARIA-1.9.7-Android.apk"
   },
   "sha256": {
-    "windows": "892cae3228088b1d10e7c7055114f46a240579397fe18cb89049dd24ed99b5cf",
-    "android": "f33e3f6baa5660c2b07f1288750f5be6368517a4e7b953f499121e882e9742b8"
+    "windows": "7208ff15d7a1974206b4511b25b13d9be6db9396ee77b6682ba1047533c40640",
+    "android": "050fade5b63ea60b0fda49d7b7154610ad062e7359319884131756eb9c82e91b"
   },
-  "published_at": "2026-10-17T05:58:23Z"
+  "published_at": "2026-10-17T07:08:11Z"
 }

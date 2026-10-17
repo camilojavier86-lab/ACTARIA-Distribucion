@@ -1,22 +1,23 @@
 {
   "schema": 1,
   "status": "active",
-  "version": "1.9.10",
+  "version": "1.9.11",
   "changes": [
-    "FLUJO ACTA → REVISIÓN DE MULTA → CONSTANCIA",
-    "CONSTANCIA CON EL MISMO NÚMERO DEL ACTA Y REVISIÓN DE MULTA REGISTRADA",
-    "MEMBRETES: ANCHO, ALTO, POSICIÓN Y VISTA PREVIA DE HOJA LEGAL",
-    "ACTA: DISTRIBUCIÓN MÁS EQUILIBRADA DE PÁGINAS SIN RECORTAR FIRMAS",
-    "TABLAS DE OC: GRIS/CELESTE, DIVISIONES, MONTOS COMPLETOS",
-    "ACCESOS NO DUPLICADOS Y MODIFICACIONES MEDIANTE AJUSTES DOCUMENTADOS"
+    "RECEPCIÓN: CONTINUACIÓN AUTOMÁTICA ACTA → MULTA → CONSTANCIA EN LA MISMA ORDEN",
+    "MULTA PENDIENTE: TARJETA DE ALERTA ROJA Y CONSULTA PREVIA CON FECHAS, ATRASO Y CÁLCULO ESTIMADO",
+    "AJUSTES: REGRESO AL EXPEDIENTE ORIGINAL EN LUGAR DE ENVIAR AL USUARIO A IMPORTAR",
+    "CONSTANCIA: PANTALLA FINAL CON CONSECUTIVO Y ACCESO A VER DOCUMENTO",
+    "CAPTURA: OPCIONES DE FLETE Y DESCUENTO PLEGADAS CUANDO NO SE UTILIZAN",
+    "ERRORES: ENFOQUE EN EL CAMPO QUE REQUIERE CORRECCIÓN Y TEXTO MÁS LEGIBLE",
+    "INICIO E INFORMES: ORDEN COMPLETADA CON MULTA PENDIENTE SE CONSERVA ACCESIBLE Y SE INDICA EL ESTADO REAL"
   ],
   "urls": {
-    "windows": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.10/ACTARIA-Setup-1.9.10-x64.exe",
-    "android": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.10/ACTARIA-1.9.10-Android.apk"
+    "windows": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.11/ACTARIA-Setup-1.9.11-x64.exe",
+    "android": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.11/ACTARIA-1.9.11-Android.apk"
   },
   "sha256": {
-    "windows": "6459de4b9b2faf86a4bac040725afbd5b282fc101b900726ef9d58f859a66fd4",
-    "android": "41179622dc4537c835d3d83d7b6d3286534906c4048f2feef3f2460cd0788cc0"
+    "windows": "476fa358d249ada70a2c036d83cdb7c3c76bfedf9d42e228cd6407caf026c568",
+    "android": "bac0382ced0f77d320e7ec3a0dfcf0fde685c5ee684597c8ef26420ee02e53ab"
   },
-  "published_at": "2026-10-17T19:54:36Z"
+  "published_at": "2026-10-17T21:02:09Z"
 }

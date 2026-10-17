@@ -1,19 +1,20 @@
 {
   "schema": 1,
   "status": "active",
-  "version": "1.9.7",
+  "version": "1.9.8",
   "changes": [
-    "ACTUALIZADOR ANDROID: INSTALACIÓN NATIVA MÁS FIABLE SIN NAVEGADOR NI DESINSTALAR LA VERSIÓN ANTERIOR",
-    "VERIFICACIÓN PREVIA DEL APK: INTEGRIDAD, IDENTIDAD DE ACTARIA Y VERSIÓN SUPERIOR",
-    "ERRORES DE INSTALACIÓN MÁS CLAROS Y CONSERVACIÓN DE REGISTROS LOCALES"
+    "DOCUMENTOS: TEXTO JUSTIFICADO, CIFRAS ALINEADAS Y TABLAS SIN INVADIR OTRAS COLUMNAS",
+    "MULTA: FÓRMULA HORIZONTAL REORGANIZADA Y PREVISUALIZACIÓN ADAPTADA A MÓVIL",
+    "CATÁLOGO DE UNIDADES: CÓDIGOS DE REQUISICIÓN DA/DS Y NUEVAS SIGLAS GUARDADAS",
+    "RECEPCIÓN: TIPO DE OC INTERNA O EXTERNA OBLIGATORIO Y ACCIONES ORDENADAS"
   ],
   "urls": {
-    "windows": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.7/ACTARIA-Setup-1.9.7-x64.exe",
-    "android": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.7/ACTARIA-1.9.7-Android.apk"
+    "windows": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.8/ACTARIA-Setup-1.9.8-x64.exe",
+    "android": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.8/ACTARIA-1.9.8-Android.apk"
   },
   "sha256": {
-    "windows": "7208ff15d7a1974206b4511b25b13d9be6db9396ee77b6682ba1047533c40640",
-    "android": "050fade5b63ea60b0fda49d7b7154610ad062e7359319884131756eb9c82e91b"
+    "windows": "10ee6e4a10649fd0aaa2d7a3b357e9dc2c2e6b1a4fd622491484b2a2d9ad290c",
+    "android": "854d515509a92a7eaace2c9220007cd42767f96a50b6ee7dc2eb1ef6fab3d643"
   },
-  "published_at": "2026-10-17T07:08:11Z"
+  "published_at": "2026-10-17T07:41:07Z"
 }

@@ -1,23 +1,22 @@
 {
   "schema": 1,
   "status": "active",
-  "version": "1.9.9",
+  "version": "1.9.10",
   "changes": [
-    "INICIO INTERACTIVO: INDICADORES OPERATIVOS, ALERTAS Y ACCIONES RÁPIDAS",
-    "RECEPCIÓN EN 3 PASOS: CHECK LIST OPCIONAL, RENGLONES DESTACADOS Y DOCUMENTOS CONSULTABLES",
-    "ACTAS: ESPACIO AMPLIADO PARA FIRMAS Y SELLOS CON PAGINACIÓN CONTROLADA",
-    "EXCEL AUXILIAR: NOMBRE ABREVIADO Y VISTA PREVIA SIN IMPRESIÓN OBLIGATORIA",
-    "CONFIGURACIÓN INSTITUCIONAL REORGANIZADA EN SECCIONES VISUALES",
-    "NAVEGACIÓN RETRÁCTIL EN PC Y FECHAS DE MULTA CENTRADAS",
-    "PROTECCIÓN DEL GUARDADO DE RECEPCIONES Y CORRECCIÓN DE ENLACES DOCUMENTALES"
+    "FLUJO ACTA → REVISIÓN DE MULTA → CONSTANCIA",
+    "CONSTANCIA CON EL MISMO NÚMERO DEL ACTA Y REVISIÓN DE MULTA REGISTRADA",
+    "MEMBRETES: ANCHO, ALTO, POSICIÓN Y VISTA PREVIA DE HOJA LEGAL",
+    "ACTA: DISTRIBUCIÓN MÁS EQUILIBRADA DE PÁGINAS SIN RECORTAR FIRMAS",
+    "TABLAS DE OC: GRIS/CELESTE, DIVISIONES, MONTOS COMPLETOS",
+    "ACCESOS NO DUPLICADOS Y MODIFICACIONES MEDIANTE AJUSTES DOCUMENTADOS"
   ],
   "urls": {
-    "windows": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.9/ACTARIA-Setup-1.9.9-x64.exe",
-    "android": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.9/ACTARIA-1.9.9-Android.apk"
+    "windows": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.10/ACTARIA-Setup-1.9.10-x64.exe",
+    "android": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.10/ACTARIA-1.9.10-Android.apk"
   },
   "sha256": {
-    "windows": "245c6dc728063e306edc88da74afb0bc2e3fee659ce0a5e5fe0f807ff90d469f",
-    "android": "437d2ac1d5d82f20aea13196dd22fb53ddbebffffa5b2617f87258ab3690183c"
+    "windows": "6459de4b9b2faf86a4bac040725afbd5b282fc101b900726ef9d58f859a66fd4",
+    "android": "41179622dc4537c835d3d83d7b6d3286534906c4048f2feef3f2460cd0788cc0"
   },
-  "published_at": "2026-10-17T18:09:18Z"
+  "published_at": "2026-10-17T19:54:36Z"
 }

@@ -1,9 +1,20 @@
 {
   "schema": 1,
-  "status": "inactive",
-  "version": "0.0.0",
-  "changes": [],
-  "urls": {},
-  "sha256": {},
-  "published_at": null
+  "status": "active",
+  "version": "1.9.6",
+  "changes": [
+    "REORGANIZACIÓN DE MULTAS, CONSECUTIVO ROJO Y JUSTIFICACIÓN DEL CÁLCULO",
+    "CALENDARIO LABORAL PARA PLAZOS DE ENTREGA",
+    "EDITOR DE MEMBRETES Y FORMATO LEGAL DE MULTA",
+    "AVISOS INTEGRADOS Y CANAL HTTPS PROTEGIDO"
+  ],
+  "urls": {
+    "windows": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.6/ACTARIA-Setup-1.9.6-x64.exe",
+    "android": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.6/ACTARIA-1.9.6-Android.apk"
+  },
+  "sha256": {
+    "windows": "892cae3228088b1d10e7c7055114f46a240579397fe18cb89049dd24ed99b5cf",
+    "android": "f33e3f6baa5660c2b07f1288750f5be6368517a4e7b953f499121e882e9742b8"
+  },
+  "published_at": "2026-10-17T05:58:23Z"
 }

@@ -1,20 +1,23 @@
 {
   "schema": 1,
   "status": "active",
-  "version": "1.9.8",
+  "version": "1.9.9",
   "changes": [
-    "DOCUMENTOS: TEXTO JUSTIFICADO, CIFRAS ALINEADAS Y TABLAS SIN INVADIR OTRAS COLUMNAS",
-    "MULTA: FÓRMULA HORIZONTAL REORGANIZADA Y PREVISUALIZACIÓN ADAPTADA A MÓVIL",
-    "CATÁLOGO DE UNIDADES: CÓDIGOS DE REQUISICIÓN DA/DS Y NUEVAS SIGLAS GUARDADAS",
-    "RECEPCIÓN: TIPO DE OC INTERNA O EXTERNA OBLIGATORIO Y ACCIONES ORDENADAS"
+    "INICIO INTERACTIVO: INDICADORES OPERATIVOS, ALERTAS Y ACCIONES RÁPIDAS",
+    "RECEPCIÓN EN 3 PASOS: CHECK LIST OPCIONAL, RENGLONES DESTACADOS Y DOCUMENTOS CONSULTABLES",
+    "ACTAS: ESPACIO AMPLIADO PARA FIRMAS Y SELLOS CON PAGINACIÓN CONTROLADA",
+    "EXCEL AUXILIAR: NOMBRE ABREVIADO Y VISTA PREVIA SIN IMPRESIÓN OBLIGATORIA",
+    "CONFIGURACIÓN INSTITUCIONAL REORGANIZADA EN SECCIONES VISUALES",
+    "NAVEGACIÓN RETRÁCTIL EN PC Y FECHAS DE MULTA CENTRADAS",
+    "PROTECCIÓN DEL GUARDADO DE RECEPCIONES Y CORRECCIÓN DE ENLACES DOCUMENTALES"
   ],
   "urls": {
-    "windows": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.8/ACTARIA-Setup-1.9.8-x64.exe",
-    "android": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.8/ACTARIA-1.9.8-Android.apk"
+    "windows": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.9/ACTARIA-Setup-1.9.9-x64.exe",
+    "android": "https://github.com/camilojavier86-lab/ACTARIA-Distribucion/releases/download/v1.9.9/ACTARIA-1.9.9-Android.apk"
   },
   "sha256": {
-    "windows": "10ee6e4a10649fd0aaa2d7a3b357e9dc2c2e6b1a4fd622491484b2a2d9ad290c",
-    "android": "854d515509a92a7eaace2c9220007cd42767f96a50b6ee7dc2eb1ef6fab3d643"
+    "windows": "245c6dc728063e306edc88da74afb0bc2e3fee659ce0a5e5fe0f807ff90d469f",
+    "android": "437d2ac1d5d82f20aea13196dd22fb53ddbebffffa5b2617f87258ab3690183c"
   },
-  "published_at": "2026-10-17T07:41:07Z"
+  "published_at": "2026-10-17T18:09:18Z"
 }
